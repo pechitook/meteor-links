@@ -1,5 +1,5 @@
 #Meteor Links
-Let's create, together, an organized list of useful, updated resources/tools regarding MeteorJS. PRs are *very* welcome :)
+Let's create together an organized list of useful, updated resources and tools for MeteorJS. PRs are *very* welcome. :)
 
 ##Books
 - [Discover Meteor](https://www.discovermeteor.com/) | [Translated versions **available for free**](http://www.discovermeteor.com/translations)
