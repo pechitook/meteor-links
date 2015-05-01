@@ -28,8 +28,7 @@ Let's create, together, an organized list of useful, updated resources/tools reg
 [Josh Owens: What I’ve learned during my year with Meteor.js
 ](https://www.youtube.com/watch?v=JOpPG6kiud4)
 ###Devshops
-Devshops are monthly meetups organized in San Francisco by Meteor itself, and in London by the Meteor London group.
-All devshop videos are in [Meteor Youtube Channel](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw)
+Devshops are monthly meetups organized in San Francisco by Meteor itself, and in London by the Meteor London group. All devshop videos are in [Meteor Youtube Channel](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw).
 
 ##Demos
 [Telescope](https://github.com/TelescopeJS/Telescope)  
@@ -55,7 +54,7 @@ All devshop videos are in [Meteor Youtube Channel](https://www.youtube.com/chann
 [Collection2 - Schema for your Collections](https://github.com/aldeed/meteor-collection2/)  
 [Collection Helpers - Define helpers on your collections](https://github.com/dburles/meteor-collection-helpers)  
 ###Routing
-[Iron Router -  A client and server side router designed specifically for Meteor](https://github.com/iron-meteor/iron-router) | The official [Iron Router Guide](https://github.com/iron-meteor/iron-router/blob/devel/Guide.md)  
+[Iron Router -  A client and server side router designed specifically for Meteor](https://github.com/iron-meteor/iron-router) | [The official Iron Router Guide](https://github.com/iron-meteor/iron-router/blob/devel/Guide.md)  
 [Iron Router Autoscroll - Ensures that routes loaded with Iron Router scroll to the right place](https://github.com/okgrow/iron-router-autoscroll/)  
 [Iron Router Active - Tells you what the currently active route is](https://github.com/zimme/meteor-iron-router-active/)  
 ###Performance
@@ -71,7 +70,7 @@ All devshop videos are in [Meteor Youtube Channel](https://www.youtube.com/chann
 [Orion - A simple and powerful CMS for meteor](https://github.com/orionjs/orion)  
 ###Animation
 [Template Animations - Dead simple DOM animations for Meteor](https://github.com/gwendall/meteor-template-animations)  
-##Package Import
+###Package Import
 [NPM - Use NPM packages within Meteor directly](https://github.com/meteorhacks/npm/)  
 
 
