@@ -57,8 +57,10 @@ Devshops are monthly meetups organized in San Francisco by Meteor itself, and in
 [Iron Router -  A client and server side router designed specifically for Meteor](https://github.com/iron-meteor/iron-router) | [The official Iron Router Guide](https://github.com/iron-meteor/iron-router/blob/devel/Guide.md)  
 [Iron Router Autoscroll - Ensures that routes loaded with Iron Router scroll to the right place](https://github.com/okgrow/iron-router-autoscroll/)  
 [Iron Router Active - Tells you what the currently active route is](https://github.com/zimme/meteor-iron-router-active/)  
-###Performance
+###Analytics and performance monitoring
 [Kadira - Performance Monitoring for Meteor](https://github.com/meteorhacks/kadira/)  
+[okgrow:analytics - A package that provides integration for Google Analytics, Mixpanel, KISSmetrics, and other analytics services](https://github.com/okgrow/analytics/)  
+[Iron Router GA - Google analytics integration with sugar for tracking Iron Router page views](https://github.com/reywood/meteor-iron-router-ga/)  
 ###User Authorization
 [Roles - Assign roles and permissions to your users](https://github.com/alanning/meteor-roles)  
 ###Forms
@@ -66,10 +68,16 @@ Devshops are monthly meetups organized in San Francisco by Meteor itself, and in
 ###Bootstrap
 [Bootstrap](https://github.com/twbs/bootstrap/) itself comes pre-wrapped for use as a Meteor package.  
 [Accounts UI Bootstrap - An accounts-ui package styled for Bootstrap](https://github.com/ianmartorell/meteor-accounts-ui-bootstrap-3/)  
-###CMS
+###CMS / Admin dashboard
 [Orion - A simple and powerful CMS for meteor](https://github.com/orionjs/orion)  
+[Meteor Admin - A complete admin dashboard solution](https://github.com/yogiben/meteor-admin)  
 ###Animation
 [Template Animations - Dead simple DOM animations for Meteor](https://github.com/gwendall/meteor-template-animations)  
+##Utility
+[Template Extension - A utility for dealing with your templates](https://github.com/aldeed/meteor-template-extension)
+[Underscore - The awesome javascript toolbelt](https://atmospherejs.com/meteor/underscore)  
+[Underscore.String - String manipulation helpers for javascript ](https://github.com/epeli/underscore.string/)  
+
 ###Package Import
 [NPM - Use NPM packages within Meteor directly](https://github.com/meteorhacks/npm/)  
 
