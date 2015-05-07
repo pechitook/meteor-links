@@ -13,6 +13,10 @@ Let's create together an organized list of useful, updated resources and tools f
 [Meteorhacks](https://meteorhacks.com/)  
 [Josh Owens](http://joshowens.me/)
 
+##News
+[The Meteor Podcast](http://www.meteorpodcast.com/)  
+[Meteor Club](https://meteorjs.club/)  
+
 ##Blog posts
 [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)  
 [Environment settings and security with Meteor.js](http://joshowens.me/environment-settings-and-security-with-meteor-js/)  
@@ -29,6 +33,8 @@ Let's create together an organized list of useful, updated resources and tools f
 ](https://www.youtube.com/watch?v=JOpPG6kiud4)
 ###Devshops
 Devshops are monthly meetups organized in San Francisco by Meteor itself, and in London by the Meteor London group. All devshop videos are in [Meteor Youtube Channel](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw).
+###Hangouts
+[Meteor Club Q&A](https://www.youtube.com/user/queso98/videos)  
 
 ##Demos
 [Telescope](https://github.com/TelescopeJS/Telescope)  
