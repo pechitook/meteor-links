@@ -63,6 +63,7 @@ Devshops are monthly meetups organized in San Francisco by Meteor itself, and in
 [Iron Router -  A client and server side router designed specifically for Meteor](https://github.com/iron-meteor/iron-router) | [The official Iron Router Guide](https://github.com/iron-meteor/iron-router/blob/devel/Guide.md)  
 [Iron Router Autoscroll - Ensures that routes loaded with Iron Router scroll to the right place](https://github.com/okgrow/iron-router-autoscroll/)  
 [Iron Router Active - Tells you what the currently active route is](https://github.com/zimme/meteor-iron-router-active/)  
+[Flow Router](https://github.com/kadirahq/flow-router)  
 ###Analytics and performance monitoring
 [Kadira - Performance Monitoring for Meteor](https://github.com/meteorhacks/kadira/)  
 [okgrow:analytics - A package that provides integration for Google Analytics, Mixpanel, KISSmetrics, and other analytics services](https://github.com/okgrow/analytics/)  
